@@ -2,3 +2,5 @@
 ./venv
 ./Include
 ./Lib
+*.csv
+*.sqlite
